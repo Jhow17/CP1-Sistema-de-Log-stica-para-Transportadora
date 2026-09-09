@@ -101,6 +101,7 @@ class Program
                 }
                 else
                 {
+                    opcao = -1;
                     Console.WriteLine("Opção inválida.");
                     Console.ReadKey();
                 }

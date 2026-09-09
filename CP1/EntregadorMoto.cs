@@ -8,10 +8,17 @@ namespace CP1
 {
     class EntregadorMoto : FuncionarioTransporte
     {
-
-        public EntregadorMoto(string nome, int registro) {
-            
         
+
+        public string PlacaVeiculo { get; set; }
+
+        public EntregadorMoto(string nome, int registro, string CategoriaCNH, string placaVeiculo) : base(nome, registro) {
+
+
+            PlacaVeiculo = placaVeiculo;
+
+
         }
+
     }
 }

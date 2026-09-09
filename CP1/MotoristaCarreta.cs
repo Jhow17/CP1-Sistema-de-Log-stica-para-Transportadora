@@ -9,14 +9,13 @@ namespace CP1
     class MotoristaCarreta : FuncionarioTransporte
     {
         public string CategoriaCNH { get; set; }
-        public string PlacaVeiculo { get; set; }
+   
 
-        public MotoristaCarreta(string nome, int registro, string categoriaCNH, string placaVeiculo):base(nome, registro) {
+        public MotoristaCarreta(string nome, int registro, string categoriaCNH):base(nome, registro) {
 
 
             CategoriaCNH = categoriaCNH;
 
-            PlacaVeiculo = placaVeiculo;
 
 
         

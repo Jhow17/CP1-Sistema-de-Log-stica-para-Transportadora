@@ -18,6 +18,19 @@ namespace CP1
 
         }
 
+        public int Registro {
+            get { return registro;  }
+
+            set { registro = value;  }
+        }
+
+        public FuncionarioTransporte(string nome, int registro) {
+            Nome = nome;
+            Registro = registro;
+        }
+
+
+
 
 
 

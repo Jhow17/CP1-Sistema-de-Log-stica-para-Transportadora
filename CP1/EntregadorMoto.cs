@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace CP1
 {
-    internal class EntregadorMoto
+    class EntregadorMoto : FuncionarioTransporte
     {
+
+        public EntregadorMoto(string nome, int registro) {
+            
+        
+        }
     }
 }

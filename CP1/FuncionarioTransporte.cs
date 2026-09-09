@@ -29,7 +29,11 @@ namespace CP1
             Registro = registro;
         }
 
+        public  virtual  void  MostrarDetalhes() {
 
+            Console.Write($"Nome:{Nome}, e o Registro do Funcionario e {Registro}");
+
+        }
 
 
 

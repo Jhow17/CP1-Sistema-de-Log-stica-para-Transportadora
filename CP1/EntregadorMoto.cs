@@ -12,7 +12,7 @@ namespace CP1
 
         public string PlacaVeiculo { get; set; }
 
-        public EntregadorMoto(string nome, int registro, string CategoriaCNH, string placaVeiculo) : base(nome, registro) {
+        public EntregadorMoto(string nome, int registro, string placaVeiculo) : base(nome, registro) {
 
 
             PlacaVeiculo = placaVeiculo;

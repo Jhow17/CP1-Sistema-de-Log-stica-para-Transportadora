@@ -13,5 +13,5 @@ O projeto aplica os conceitos de programação orientada a objetos por meio de a
 | João Victor da Silva Ferreira | 560439 |
 | Gabrielly Candido Camargo | 560916 |
 
-Repositório: https://github.com/Jhow17/CP1-Sistema-de-Log-stica-para-Transportadora
+
 

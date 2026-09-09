@@ -4,12 +4,14 @@ Aplicação de console desenvolvida em C# e .NET 8 para cadastrar motoristas de 
 
 O projeto aplica os conceitos de programação orientada a objetos por meio de abstração, encapsulamento, herança e polimorfismo.
 
-## Como executar
+## Integrantes
 
-Abra a solução `CP1.slnx` no Visual Studio e execute o projeto `CP1`.
+| Nome | RM |
+| --- | --- |
+| Jonathan Henrique da Silva | 561139 |
+| Luiza Saraçol Ribeiro | 560200 |
+| João Victor da Silva Ferreira | 560439 |
+| Gabrielly Candido Camargo | 560916 |
 
-Também é possível executar pelo terminal:
+Repositório: https://github.com/Jhow17/CP1-Sistema-de-Log-stica-para-Transportadora
 
-```bash
-dotnet run --project CP1/CP1.csproj
-```
